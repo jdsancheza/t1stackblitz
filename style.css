@@ -9,7 +9,7 @@ body{
 
 
 .div:after{
-  width: 700px
+  width: 700px;
   content:"";
   display: table;
   clear: both;
