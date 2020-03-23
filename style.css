@@ -32,5 +32,9 @@ body{
 }
 
 .mapa{
-  width:70px;
+  width:40%;
+}
+
+.tiburon{
+  width:100%;
 }
