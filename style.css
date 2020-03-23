@@ -8,12 +8,20 @@ body{
 }
 
 
-.div{
+.div:after{
+  content:"";
   display: table;
   clear: both;
 }
 .div1{
   float: left;
-  display: table;
-  clear: both;
+}
+
+
+.div2{
+  float: center;
+}
+
+.div3{
+  float: right;
 }
