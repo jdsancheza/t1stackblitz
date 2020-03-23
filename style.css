@@ -7,6 +7,11 @@ body{
   background-color: rgb(0,153,255)
 }
 
+
+.div{
+  display: table;
+  clear: both;
+}
 .div1{
   float: left;
   display: table;
