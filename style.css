@@ -7,7 +7,7 @@ body{
   background-color: rgb(0,153,255)
 }
 
-.div1{
+.div1:after{
   display: table;
   clear: both;
 }
